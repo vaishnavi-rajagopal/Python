@@ -1,0 +1,16 @@
+P,exploud,normal,ambush-80,140,grass,cacophony-10
+P,blaziken,fire,firestarter-10,150,water,fire stream-90
+P,marshadow,psychic,shadow punch-30,70,dark,let loose-10
+P,ekans,psychic,poison sting-30,70,dark,empty
+P,feraligatr,water,crunch-80,160,grass,hydro splash-130
+P,ariados,grass,impound-10,70,fire,poisonous nest-10
+P,kirlia,psychic,beckon-10,80,dark,quick turn-30
+P,zorua,dark,moonless madness-10,60,psychic,dark edge-30
+P,liepard,dark,torment-30,90,psychic,slash-60
+P,oranguru,normal,resource management-10,120,grass,profound knowledge-60
+P,salandit,fire,live coal-10,70,water,combustion-30
+P,bulbasaur,grass,razor leaf-30,70,normal,empty
+P,voltorb,normal,electro ball-10,60,grass,empty
+P,zekrom,normal,outrage-20,130,grass,storm blade-130
+P,entei,fire,fire fang-20,130,water,eruption-80
+P,greninja,water,shadow stitching-40,130,fire,moonlight slash-60

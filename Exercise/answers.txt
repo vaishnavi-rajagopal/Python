@@ -1,0 +1,27 @@
+SUBMISSIONS vaishnavi$ cd week_01
+week_01 vaishnavi$ mkdir s1
+week_01 vaishnavi$ cd s1
+s1 vaishnavi$ mkdir s3
+s1 vaishnavi$ mkdir s2
+s1 vaishnavi$ cd s2
+s2 vaishnavi$ mkdir Advanced
+
+s3 vaishnavi$ echo "I love bash scripting" >> conf.txt
+s3 vaishnavi$ cat conf.txt
+I love bash scripting
+
+s3 vaishnavi$ cd ..
+s1 vaishnavi$ cd s2
+s2 vaishnavi$ echo "A whole new world" >> text_chunk1.txt
+s2 vaishnavi$ echo "A new fantastic point of view" >> text_chunk1.txt
+s2 vaishnavi$ cat text_chunk1.txt 
+A whole new world
+A new fantastic point of view
+
+s2 vaishnavi$ cp text_chunk1.txt Advanced/text_chunk2.txt
+s2 vaishnavi$ cd Advanced/
+Advanced vaishnavi$ echo "Do you want to build a snowman?" >> text_chunk2.txt 
+Advanced vaishnavi$ cat text_chunk2.txt 
+A whole new world
+A new fantastic point of view
+Do you want to build a snowman?
